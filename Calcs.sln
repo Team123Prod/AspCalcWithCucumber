@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcs", "Calcs\Calcs.csproj", "{39562A90-5192-4F1F-B0CC-8A3E82434FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP Tests", "ASP Tests\ASP Tests.csproj", "{65104CCE-9984-4171-B3FB-AD0AAB00289B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CucumberTest", "CucumberTest\CucumberTest.csproj", "{D0AC793F-9222-4FFA-843F-97A4761F16BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39562A90-5192-4F1F-B0CC-8A3E82434FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39562A90-5192-4F1F-B0CC-8A3E82434FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39562A90-5192-4F1F-B0CC-8A3E82434FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39562A90-5192-4F1F-B0CC-8A3E82434FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65104CCE-9984-4171-B3FB-AD0AAB00289B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65104CCE-9984-4171-B3FB-AD0AAB00289B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65104CCE-9984-4171-B3FB-AD0AAB00289B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65104CCE-9984-4171-B3FB-AD0AAB00289B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AC793F-9222-4FFA-843F-97A4761F16BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AC793F-9222-4FFA-843F-97A4761F16BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AC793F-9222-4FFA-843F-97A4761F16BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AC793F-9222-4FFA-843F-97A4761F16BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {709BB485-5A87-4069-8F98-D17DB5F1A30C}
+	EndGlobalSection
+EndGlobal
